@@ -10,6 +10,7 @@ according to the search experience of the fast one. A Gaussian process model bas
 a high confidence level are selected as the augmented synthetic training data, thereby enhancing the approximation quality of the surrogate of the slow objective. Our experimental
 results on three test suites demonstrate that the proposed algorithm is competitive for solving bi-objective optimization problems where objectives have different evaluation times,
 compared with existing surrogate and non-surrogate-assisted delay-handling methods.
+
 #Reference
 If you found DNN-AR-MOEA useful, we would be grateful if you cite the following reference:
 ....
